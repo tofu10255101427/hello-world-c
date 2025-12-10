@@ -1,6 +1,14 @@
-# Hello World in C 🌟
+# 🌟 Hello World in C - 我的第一个开源项目
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![C Language](https://img.shields.io/badge/language-C-orange.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/tofu10255101427/hello-world-c)
 
-这是我的第一个开源项目！一个简单的 C 语言 "Hello World" 程序。
+欢迎来到我的第一个GitHub开源项目！这是一个经典的C语言"Hello World"程序，适合编程初学者学习和参考。
+
+## 🚀 快速开始
+
+### 克隆项目
+```bash
+git clone https://github.com/tofu10255101427/hello-world-c.git
+cd hello-world-c
